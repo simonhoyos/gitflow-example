@@ -12,4 +12,12 @@ hello world
 2. item 2
 3. item 3
 
+`Object`
+
+```javascript
+const bar = foo;
+
+console.log(bar);
+```
+
 [Google](https://google.com)
